@@ -57,4 +57,4 @@ node --test tests/allowance.test.ts
 
 ## 许可证
 
-尚未选定。WhaleLife 主仓使用 AGPL-3.0-only，发布前请自行选定并补上 LICENSE 文件。
+本插件以 [GNU Affero General Public License v3.0](LICENSE)（AGPL-3.0）发布，与 WhaleLife 主仓保持一致。
