@@ -1,0 +1,6 @@
+id: allowance
+name: 零花钱
+version: 0.1.0
+description: 让角色自己挑选想买的东西并提交购物单；是否购买、何时付款完全由用户在控制台决定，插件本身不付款。
+apiVersion: "1.0.0"
+depends: [web, tools, memory, sessions]
